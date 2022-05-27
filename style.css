@@ -1,0 +1,35 @@
+/* ---- base ---- */
+
+html,body{
+	width:100%;
+	height:100%;
+	background:#aabdcb;
+}
+
+html{
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body{
+  font:normal 75% Arial, Helvetica, sans-serif;
+}
+
+canvas{
+  display:block;
+  vertical-align:bottom;
+}
+font-family: 'Montserrat', sans-serif;
+
+text-align: center
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+  width: 100%;
+  height: 100%;
+  background-color: #aabdcb;
+  background-image: url('');
+  background-size: cover;
+  background-position: 200% 200%;
+  background-repeat: no-repeat;
+}
